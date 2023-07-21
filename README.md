@@ -20,7 +20,7 @@ Majema singkatan dari manajemen mahasiswa merupakan aplikasi web yang di bangun 
 - Tampilkan mahasiswa yang aktif
 - Tampilkan mahasiswa yang tidak aktif
 
-## Livewire
+## Install Livewire ⚙️
 ```
 composer require livewire/livewire
 ```
