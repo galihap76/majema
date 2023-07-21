@@ -1,0 +1,1 @@
+Tabel untuk DBMS mysql.
