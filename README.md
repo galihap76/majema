@@ -1,4 +1,4 @@
-## Manajemen Mahasiswa 📋 👨‍🎓
+## Manajemen Mahasiswa 📋 
 Majema singkatan dari manajemen mahasiswa merupakan aplikasi web yang di bangun dengan framework laravel 9. Tujuan aplikasi web ini adalah untuk memanajemen data mahasiswa dalam sebuah kampus dan saya membangun ini sebagai contekan aja. Sebagai tambahan, aplikasi web ini mendukung komponen livewire memungkinkan aplikasi berinteraksi dengan antarmuka modern. Aplikasi web ini hanya memiliki satu user saja untuk login yaitu administrator.
 
 ## Fitur Auth App 🔐
@@ -19,6 +19,11 @@ Majema singkatan dari manajemen mahasiswa merupakan aplikasi web yang di bangun 
 - Search data mahasiswa
 - Tampilkan mahasiswa yang aktif
 - Tampilkan mahasiswa yang tidak aktif
+
+## Livewire
+```
+composer require livewire/livewire
+```
  
 ## Tangkapan Layar 📸
 ![Screenshot (567)](https://github.com/galihap76/majema/assets/83481679/3a62cabf-14b0-43ad-984f-42187ea4cd36)
