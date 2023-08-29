@@ -20,9 +20,56 @@ Majema singkatan dari manajemen mahasiswa merupakan aplikasi web yang di bangun 
 - Tampilkan mahasiswa yang aktif
 - Tampilkan mahasiswa yang tidak aktif
 
-## Install Livewire ⚙️
+## Install⚙️
+
+Jika Anda ingin menggunakan aplikasi web ini berikut langkah langkah nya :
+
+1. Lakukan git clone
+```
+git clone https://github.com/galihap76/majema.git
+```
+
+2. Masuk ke direktori majema
+```
+cd majema
+```
+
+3. Install package bawahan laravel
+```
+composer install
+```
+
+4. Install livewire
 ```
 composer require livewire/livewire
+```
+
+5. Rename .env.example ke .env
+```
+copy .env.example .env
+```
+
+6. Generate key
+```
+php artisan key:generate
+```
+
+7. Open .env lalu ubah konfigurasi database sesuai yang ingin dipakai
+```
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+8. Jalankan migration dan seeder
+```
+php artisan migrate --seed
+```
+
+9. Run
+```
+php artisan serve
 ```
  
 ## Tangkapan Layar 📸
