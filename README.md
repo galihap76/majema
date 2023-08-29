@@ -62,7 +62,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-8. Jalankan migration dan seeder
+8. Jalankan migration dan seeder (di rekomendasikan)
 ```
 php artisan migrate --seed
 ```
