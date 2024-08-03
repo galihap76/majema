@@ -1,4 +1,4 @@
-> 🚨 NOTICE : Mohon maaf, saya menyatakan bahwa proyek aplikasi web ini sudah tidak lagi saya kelola secara aktif. Terima kasih.
+> 🚨 NOTICE : Mohon maaf, saya menyatakan bahwa proyek aplikasi web ini sudah tidak lagi saya kelola secara aktif meskipun sebagai projek sampingan dan contekan. Terima kasih.
 
 <hr>
 
