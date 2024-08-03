@@ -1,3 +1,7 @@
+> 🚨 NOTICE : Mohon maaf, saya menyatakan bahwa proyek aplikasi web ini sudah tidak lagi saya kelola secara aktif. Terima kasih.
+
+<hr>
+
 ## Manajemen Mahasiswa 📋 
 Majema singkatan dari manajemen mahasiswa merupakan aplikasi web yang di bangun dengan framework laravel 9. Tujuan aplikasi web ini adalah untuk memanajemen data mahasiswa dalam sebuah kampus dan saya membangun ini sebagai contekan aja. Sebagai tambahan, aplikasi web ini mendukung komponen livewire memungkinkan aplikasi berinteraksi dengan antarmuka modern. Aplikasi web ini hanya memiliki satu user saja untuk login yaitu administrator.
 
@@ -29,7 +33,7 @@ composer install
 composer require livewire/livewire
 ```
 
-5. Rename .env.example ke .env
+5. Copy .env.example ke .env
 ```
 copy .env.example .env
 ```
